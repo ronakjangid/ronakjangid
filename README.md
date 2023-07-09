@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full stact Web Development**
+- 🌱 I’m currently learning **Full stack Web Development**
 
 - 📫 How to reach me **ronakjangid2211@gmail.com**
 
